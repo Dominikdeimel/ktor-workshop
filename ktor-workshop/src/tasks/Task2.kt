@@ -19,6 +19,8 @@ private val images_task2: List<ImageData> = listOf(
     ImageData(7, "Tulips.jpg", "images/task2/Tulips.jpg")
 )
 
+data class postBody(val imageId: Int, val newImageName: String)
+
 fun Routing.routesTask2() {
 
     // Aufgabe 2

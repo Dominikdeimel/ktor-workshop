@@ -16,12 +16,11 @@ import io.ktor.http.content.static
 import io.ktor.response.*
 import io.ktor.request.*
 import io.ktor.routing.delete
+import io.ktor.routing.get
 import io.ktor.routing.routing
 import java.io.File
 
 val gson_pretty = GsonBuilder().setPrettyPrinting().create()
-
-data class ImageData(val imageId: Int, var imageName: String, var imagePath: String)
 
 fun main(args: Array<String>): Unit = io.ktor.server.netty.EngineMain.main(args)
 
@@ -58,5 +57,9 @@ fun Application.module(testing: Boolean = false) {
             File("images/task1").copyRecursively(File("images/taskOptional"))
             call.respond(200)
         }
+        get("/checkStatus"){
+            call.respond(200)
+        }
     }
 }
+

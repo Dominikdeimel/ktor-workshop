@@ -20,7 +20,7 @@ private val images_task1: List<ImageData> = listOf(
 
 fun Routing.routesTask1() {
 
-    //Aufgabe 1
+    // Aufgabe 1
 
 }
 

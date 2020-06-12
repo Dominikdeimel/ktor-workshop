@@ -24,7 +24,7 @@ private val images_taskOptional: MutableList<ImageData> = mutableListOf(
 
 fun Routing.routesTaskOptional() {
 
-    //Aufgabe 4 (Optional)
+    // Aufgabe 4 (Optional)
 
 }
 
