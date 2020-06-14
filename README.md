@@ -13,7 +13,7 @@ Zur Unterstützung wird bereits eine Frontend Komponente zur Verfügung gestellt
 ### Allgemein 
 
 1. [Google Chrome](https://www.google.com/chrome/) installieren
-2. Workshop Repository klonen `https://github.com/Dominikdeimel/ktor-workshop.git` 
+2. Workshop Repository klonen `git clone https://github.com/Dominikdeimel/ktor-workshop.git` 
 
 ### Backend
 
@@ -37,7 +37,11 @@ Zur Unterstützung wird bereits eine Frontend Komponente zur Verfügung gestellt
 
 6. `Add Configuration` auswählen
 
+![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/configuration.png)
+
 7. Bei _Templates_ `Application` auswählen, bei _Main Class_ `io.ktor.server.netty.EngineMain` eintragen und bei _Use classpath of module_ `example` auswählen
+
+![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/runConfig.png)
 
 8. Anwendung starten
 
