@@ -37,7 +37,11 @@ Zur Unterstützung wird bereits eine Frontend Komponente zur Verfügung gestellt
 
 6. `Add Configuration` auswählen
 
+![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/configuration.png)
+
 7. Bei _Templates_ `Application` auswählen, bei _Main Class_ `io.ktor.server.netty.EngineMain` eintragen und bei _Use classpath of module_ `example` auswählen
+
+![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/runConfig.png)
 
 8. Anwendung starten
 
