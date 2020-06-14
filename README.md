@@ -13,7 +13,7 @@ Zur Unterstützung wird bereits eine Frontend Komponente zur Verfügung gestellt
 ### Allgemein 
 
 1. [Google Chrome](https://www.google.com/chrome/) installieren
-2. Workshop Repository klonen `https://github.com/Dominikdeimel/ktor-workshop.git` 
+2. Workshop Repository klonen `git clone https://github.com/Dominikdeimel/ktor-workshop.git` 
 
 ### Backend
 
