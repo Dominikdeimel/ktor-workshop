@@ -3,7 +3,7 @@
         <div style="margin-top: 30px">
             <v-layout justify-center>
                 <v-card width="1200" style="margin-top: 30px">
-                    <h1 style="margin-top: 20px">Aufgabe 4 Optional</h1>
+                    <h1 style="margin-top: 20px">Aufgabe 4 (Optional)</h1>
                     <v-btn icon @click="resetImages" color="red" style="float: right; margin-top: -40px; margin-right: 20px">
                         <v-icon>mdi-restart</v-icon>
                     </v-btn>

@@ -14,10 +14,9 @@
                             Moduls Web Technologien, im Medieninformatik Master an der Technischen Hochschule Köln</p>
                         <p style="font-family:verdana; font-size: 17px">Über das Menü kann auf die Aufgaben 1 - 3
                             zugegriffen werden. Aufgabe 4 ist optional und wird während des Workshops angekündigt. Über
-                            den Reiter Home oder durch das aktuallisieren der seite können Sie jederzeit wieder auf
-                            diese Seite zurückkommen</p>
-                        <p style="font-family:verdana; font-size: 17px">Sollten Problemen oder Fragenaufkommen, stehe ich
-                            jederzeit zur Verfügung</p>
+                            den Reiter "Home" kann jederzeit auf diese Seite zurückgekehrt werden.</p>
+                        <p style="font-family:verdana; font-size: 17px">Sollten Probleme oder Fragen aufkommen, stehe ich
+                            jederzeit über Slack zur Verfügung.</p>
                         <p v-if="backendOnline === true" style="font-family:verdana; font-size: 17px; color: green">
                             Backend: Online</p>
                         <p v-if="backendOnline === false" style="font-family:verdana; font-size: 17px; color: red">
