@@ -23,11 +23,11 @@ Sollten Probleme oder Fragen aufkommen bin ich jederzeit über Slack oder per Ma
 
 2. Intellij starten
 
-3. Unter `File` > `Settings` > `Plugins` nach _ktor_ suchen installieren
+3. Den Ordner `tasks-workshop` in Intellij öffnen
+
+4. Unter `File` > `Settings` > `Plugins` nach _ktor_ suchen installieren
 
 ![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/plugin.png)
-
-4. Den Ordner `tasks-workshop` in Intellij öffnen
 
 5. Anwendung starten
 
