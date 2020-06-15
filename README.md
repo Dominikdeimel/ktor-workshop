@@ -1,10 +1,10 @@
-![Ktor Logo](https://ktor.io/assets/images/ktor_logo.svg)
+![Kotlin Logo](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/kotlin_logo.png)
 > Logo from https://www.jetbrains.com/
 
 # Workshop Serverseitige Entwicklung mit Ktor
-Der Workshop Serverseitige Entwicklung mit Ktor soll einen ersten Einblick in das Framework _Ktor_ geben. 
+Der Workshop _Serverseitige Entwicklung mit Ktor_ soll einen ersten Einblick in das Framework _Ktor_ geben. 
 Bei Ktor handelt es sich um ein Framework zur Implementierung von asynchronen server- und clientseitigen Anwendungen, mit Hilfe der Programmiersprache _Kotlin_.
-Während des Workshops sollen Teilnehmer in einem ersten Hands-on eine Server Komponente mit dem Framework Ktor und Kotlin als Programmiersprache umsetzen. 
+Während des Workshops sollen Teilnehmer in einem ersten Hands-On eine Server Komponente mit dem Framework Ktor und Kotlin als Programmiersprache umsetzen. 
 Behandelt werden dabei vor allem die Implementierung von Routen und die Verarbeitung von Daten. 
 Zur Unterstützung wird bereits eine Frontend Komponente zur Verfügung gestellt, um die umgesetzten Teile zu testen. 
 
