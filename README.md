@@ -1,5 +1,5 @@
 ![Kotlin Logo](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/kotlin_logo.png)
-> Logo from https://www.jetbrains.com/
+> &copy; Jetbrains - https://www.jetbrains.com/
 
 # Workshop Serverseitige Entwicklung mit Ktor
 Der Workshop _Serverseitige Entwicklung mit Ktor_ soll einen ersten Einblick in das Framework _Ktor_ geben. 
