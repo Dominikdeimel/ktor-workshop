@@ -10,6 +10,8 @@ Zur Unterstützung wird bereits eine Frontend Komponente zur Verfügung gestellt
 
 ## Vorbereitung
 
+Sollten Probleme oder Fragen aufkommen bin ich jederzeit über Slack oder per Mail unter dominik.deimel@th-koeln.de erreichbar.
+
 ### Allgemein 
 
 1. [Google Chrome](https://www.google.com/chrome/) installieren
@@ -33,17 +35,6 @@ Zur Unterstützung wird bereits eine Frontend Komponente zur Verfügung gestellt
 
 ![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/console.png)
 
-**Falls die Anwendung nicht gestartet werden kann**
-
-6. `Add Configuration` auswählen
-
-![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/configuration.png)
-
-7. Bei _Templates_ `Application` auswählen, bei _Main Class_ `io.ktor.server.netty.EngineMain` eintragen und bei _Use classpath of module_ `example` auswählen
-
-![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/runConfig.png)
-
-8. Anwendung starten
 
 ### Frontend
 1. In das Verzeichnis wechseln `cd frontend-workshop`
