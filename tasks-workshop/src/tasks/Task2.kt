@@ -19,7 +19,7 @@ private val images_task2: List<ImageData> = listOf(
     ImageData(7, "Tulips.jpg", "images/task2/Tulips.jpg")
 )
 
-data class postBody(val imageId: Int, val newImageName: String)
+// Hier kommt die Data Class hin
 
 fun Routing.routesTask2() {
 

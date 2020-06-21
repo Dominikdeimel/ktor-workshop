@@ -50,6 +50,7 @@ fun Application.module(testing: Boolean = false) {
         routesTask2()
         routesTask3()
         routesTaskOptional()
+
         delete("/image/reset") {
             File("images/task2").deleteRecursively()
             File("images/taskOptional").deleteRecursively()
