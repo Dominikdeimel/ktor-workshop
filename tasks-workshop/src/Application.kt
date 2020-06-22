@@ -20,8 +20,6 @@ import io.ktor.routing.get
 import io.ktor.routing.routing
 import java.io.File
 
-val gson_pretty = GsonBuilder().setPrettyPrinting().create()
-
 fun main(args: Array<String>): Unit = io.ktor.server.netty.EngineMain.main(args)
 
 fun Application.module(testing: Boolean = false) {

@@ -1,7 +1,6 @@
 package com.example.tasks
 
 import com.example.ImageData
-import com.example.gson_pretty
 import io.ktor.application.call
 import io.ktor.request.receive
 import io.ktor.response.respond
@@ -19,7 +18,7 @@ private val images_task2: List<ImageData> = listOf(
     ImageData(7, "Tulips.jpg", "images/task2/Tulips.jpg")
 )
 
-// Hier kommt die Data Class hin
+// Put Data Class here
 
 fun Routing.routesTask2() {
 

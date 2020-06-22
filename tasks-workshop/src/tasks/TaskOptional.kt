@@ -1,7 +1,6 @@
 package com.example.tasks
 
 import com.example.ImageData
-import com.example.gson_pretty
 import io.ktor.application.call
 import io.ktor.http.Parameters
 import io.ktor.request.receive
