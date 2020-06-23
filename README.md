@@ -25,11 +25,13 @@ Sollten Probleme oder Fragen aufkommen bin ich jederzeit über Slack oder per Ma
 
 3. Den Ordner `tasks-workshop` in Intellij öffnen
 
-4. Unter `File` > `Settings` > `Plugins` nach _ktor_ suchen installieren
+4. Unter `File` > `Project Structures` > `Project` das Java SDK festlegen 
+
+5. Unter `File` > `Settings` > `Plugins` nach _ktor_ suchen installieren
 
 ![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/plugin.png)
 
-5. Anwendung starten
+6. Anwendung starten
 
 ![](https://github.com/Dominikdeimel/ktor-workshop/blob/master/assets/start.png)
 
